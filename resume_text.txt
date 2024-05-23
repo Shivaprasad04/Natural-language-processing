@@ -1,0 +1,164 @@
+Workday Integration Consultant
+
+
+
+Name         : Sri Krishna S		
+
+
+
+PROFESSIONAL SUMMERY:
+
+
+
+Working as a Software Consultant with 4+ years of Professional IT experience, with 4 years as Workday Consultant and good experience on Report Writing, Integrations and Functional Understanding of HCM. And I have great commitment to implement client’s Workday Strategy.
+
+
+
+Knowledge of the software development life cycle from design through scoping, requirements gathering, analysis, development, testing, user acceptance, deployment, maintenance/support, and change management. 
+
+Experience in developing technical architectures and producing end- to- end technical specification and design artifacts
+
+Lead efforts in new integration/interface development including documenting requirements, integration design, build, testing and deployment.
+
+Good working knowledge on Inbound and Outbound EIB integration concepts and created various EIB integrations.
+
+Building Core Connector integrations for extracting worker, position, status, leave and absence delta changes.
+
+Designed and built all types of integrations using Document Transformation, EIB, PECI, PICOF, Cloud Connectors and Custom Report Writer. 
+
+Good experience with Workday Studio to build complex integrations
+
+Excellent experience in Service Oriented Architecture (SOA) using SOAP, WSDL and Web Services. 
+
+Experience with XML, XPATH and XSLT, and Expert in designing/development of Interfaces with legacy and third party systems. 
+
+Hands-on experience In Migrating the XSLT Code, Reports from Lower tenet to Sandbox and Production using Object Transporter.
+
+Experienced in developing Custom Reports, Advanced Reports using Report writer.
+
+Strong experience using technologies involving Workday applications, reporting and analytics. 
+
+Strong Knowledge on Involved in CR-Change Request as for business requirement and Building and moving changes to production.
+
+Worked closely with business and development teams, designed and documented 
+enhancements as well as conducted production support troubleshooting around integrations for Global Workday HCM system.
+
+Experience with administration of Kronos, scheduling module including database and table maintenance, application maintenance and upgrades, licenses, and platform maintenance.
+
+Coordinating with functional team and providing technical solutions for the incoming requirements.
+
+Worked closely with SME’s to understand the business requirements.
+
+Excellent working experience of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and testing methodologies like Agile/Scrum.
+
+Excellent interpersonal, presentation and communication skills with the ability to work in a team and a stand-alone environment. 
+
+TECHNICAL SKILLS:           
+
+IDE
+
+Workday Studio, Oxygen, Eclipse.
+
+Software/ Products
+
+Workday, Core Java.
+
+Languages
+
+XML, XSLT, MVEL Web Services SOAP & REST.
+
+HCM Modules
+
+Core HR, Benefits, Compensation, Time Tracking, Absence Management, Studio, Core Connectors, Calculated Fields, Change deduction, Report Writing, Integration,  EIB  Inbound/Outbound, Sup Orgs, Business Objects.
+
+
+
+
+
+Aptiv, Banglore, India								           (Mar 2019 to Till date)
+
+Workday Integration Consultant
+
+Parent Company: Digee IT Networks
+
+
+
+Worked extensively on payroll Interfaces for several vendors and have designed and developed integrations in both Workday Studio and EIB.  
+
+Worked in inbound EIB's, managing business processes, working with EIB, report writer, creating Workday Calculated fields and custom reports.   
+
+Developed several custom reports using Workday Report Writer and Modified Workday Standard reports according to client requirements.
+
+Modified the Business Processes according to the Business Requirement.  
+
+Worked data from legacy system performed a date transform to Workday compatible iLoad format.   
+
+Lead and Supported Workday HCM System Testing, End-to-End testing, and UAT.  
+
+Worked on setting up of PICOF connector and configured attributes and maps and merging integration outputs. And worked on Payroll change detection.
+
+Used sequence generators, generating templates and validating inbound integration system results.
+
+Day to day support for Workday HCM, Integrations and Reporting issues.
+
+Involved in sending data to IAM teams to give access to new hires and remove access from closing accounts for workers on downstream services.
+
+Involved in developing of Benefit integrations like Vanguard and medical plans using Cloud connector.
+
+Lead and Supported Workday HCM System Testing, End-to-End testing, and UAT.  
+
+Configured Hire Business process following Position management staffing model according to business needs.
+
+
+
+Environment: Workday 32, Workday Studio, Payroll Connectors, CCB, CCW, EIB, XML, Web Services, XSLT 2.0, Report Writer, Oxygen, Calculated fields, DT, MS Word, Replicon.
+
+
+
+Delphi Technologies, Banglore, India					                      (May 2017 to Feb 2019)
+
+Workday Consultant
+
+
+
+Responsibilities: 
+
+Design and build integrations and worked closely with testing and production teams to solve issue with integrations.
+
+Created Custom reports like Simple, Advanced Reports as per the client requirements and shared with the security groups.
+
+Created Reports against the Worker business object and worked on Headcount, Turnover and Compensation Reports.
+
+Worked on Calculated Fields to create Report level and Global cal Fields.
+
+Worked on Workday delivered Configurable Integrations like vendor specific connectors. Worked on Core connectors by using Generic templates.
+
+Good experience with Core Connector worker to work on employee demographics and build Benefit integrations and Account provisioning integrations.
+
+Involved in sending data to IAM teams to give access to new hires and remove access from closing accounts for workers on downstream services.
+
+Involved in developing of Benefit integrations on  medical plans using Cloud connector.
+
+Created complex Inbound/Outbound integrations using workday studio, core/cloud connectors, using EIB’s, document transformation process.
+
+Created External payroll organization and assigned roles and created pay groups for third-party payroll.
+
+Worked on setting up of PECI connector and configured attributes and maps and merging integration outputs. And worked on Payroll change detection.
+
+Designed regression testing scenarios for the integrations during upgrades.
+
+Leveraged robust workday web service API framework to load data inputs into workday via EIB Inbound Integration development.
+
+Worked on Agile methodology as a Software development life cycle for collaborating with the Cross-functional teams and end user. 
+
+Involved in unit test on Integrations, UAT support and end user training.
+
+
+
+Technical Environment: Workday 27/28/29/30, Workday studio, workday EIB, Core concepts, Document transformation, Calculated fields, Workday report writer, XML, XSLT.
+
+
+
+Education details:
+
+Bachelors in Electronics & Communication Engineering from JNTU-Kakinada, India in 2017.
